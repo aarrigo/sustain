@@ -13,15 +13,15 @@ safe: true
 # edit here to achieve your personal greatness
 url: http://username.github.io/
 baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
-description: Personal blog and resume
+title:Adriano Arrigo - Jornalista
+author: Adriano Arrigo
+description: Portfolio e curriculo
 avatar: profile.png
-email: yourname@email.com
-github: biomadeira/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+email: arrigo.adriano@gmail.com
+github: aarrigo/sustain # username
+twitter: aarrigo
+#linkedin: username
+#stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 disqus: username
 google_analytics: UA-69391421-1
